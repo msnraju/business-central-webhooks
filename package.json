@@ -1,0 +1,23 @@
+{
+  "name": "business-central-webhooks",
+  "version": "1.0.0",
+  "description": "Client Application to try Business Central Webhooks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msnraju/business-central-webhooks.git"
+  },
+  "author": "MSN Raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msnraju/business-central-webhooks/issues"
+  },
+  "homepage": "https://github.com/msnraju/business-central-webhooks#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "httpntlm": "^1.7.7"
+  }
+}
